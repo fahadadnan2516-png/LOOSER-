@@ -1,0 +1,7 @@
+{
+  "name": "LOOSER - The Extreme Habit Dashboard",
+  "description": "A high-performance, dynamic habit tracker inspired by the LOOSER design system, featuring real-time analytics, streaks, and a 30-day interactive grid.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
